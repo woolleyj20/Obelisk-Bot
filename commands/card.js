@@ -31,14 +31,14 @@ function buildResponse(name, type) {
 	const card = cards.find(element => element.name == name);
 	if (typeof card !== 'undefined') {
 		const cardName = card.name;
-		let vanish = false;
+		let vanish = ' ';
 		if (typeof card.versions[type].vanish !== 'undefined') {
-			vanish = true;
+			vanish = ':ato_vanish:';
 		}
 
-		let innate = false;
+		let innate = ' ';
 		if (typeof card.versions[type].innate !== 'undefined') {
-			innate = true;
+			innate = ':ato_innate:';
 		}
 
 		// const url = card.url ?? 'https://st.depositphotos.com/1106005/3146/i/450/depositphotos_31468817-stock-photo-coming-soon-sign.jpg';
