@@ -28,17 +28,17 @@ module.exports = {
 };
 
 function buildResponse(name, type) {
-	const card = cards.find(element => element.name == name);
+	const card = cards.find(element => element.name == toTitleCase(name));
 	if (typeof card !== 'undefined') {
 		const cardName = card.name;
 		let vanish = ' ';
 		if (typeof card.versions[type].vanish !== 'undefined') {
-			vanish = ':ato_vanish:';
+			vanish = '<:ato_card_vanish:1017803897336770630>';
 		}
 
 		let innate = ' ';
 		if (typeof card.versions[type].innate !== 'undefined') {
-			innate = ':ato_innate:';
+			innate = '<:ato_card_innate:1017803886146359407>';
 		}
 
 		// const url = card.url ?? 'https://st.depositphotos.com/1106005/3146/i/450/depositphotos_31468817-stock-photo-coming-soon-sign.jpg';
@@ -78,3 +78,12 @@ function descriptionReturn(description) {
 function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
+
+function toTitleCase(str) {
+	return str.replace(
+	  /\w\S*/g,
+	  function(txt) {
+		return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+	  }
+	);
+  }
