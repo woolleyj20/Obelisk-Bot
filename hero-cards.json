@@ -103,7 +103,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "",
                     "rawDescription": "",
                     "energyGiven": 1,
@@ -138,7 +138,7 @@
                 "base": {
                     "target": "All Heroes",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_thorns:831709250656927805>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
@@ -152,7 +152,7 @@
                 "blue": {
                     "target": "All Heroes",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 2<:ato_thorns:831709250656927805>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
@@ -179,7 +179,7 @@
                 "corrupted": {
                     "target": "All Heroes",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 3<:ato_thorns:831709250656927805>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "innate": true,
@@ -344,7 +344,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 3<:ato_card:1017803874498777118>\nGain 2<:ato_energize:831710263631020072>\nPlace 2<:ato_card:1017803874498777118> from your hand on top of your deck.",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br1><Draw> <DrawCard><br1><Place> <DiscardCard> from your hand on top of your deck.",
                     "draws": 3,
@@ -972,7 +972,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal X<:ato_slash:831707157426602034>\nApply X<:ato_bleed:831708103178321941>\n(X equals your<:ato_bleed:831708103178321941>)\nDispel your <:ato_bleed:831708103178321941>",
                     "rawDescription": "<Deal> <sy> X </sy><:ato_slash:831707157426602034><br><Apply> <sy> X </sy> <sprite=bleed><br>(<sy>X</sy> equals your <sprite=bleed>)<br1><Gain> <AuraSelf_AuraCharges>",
                     "vanish": true,
@@ -1013,7 +1013,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Lose 16HP\nSuffer 4<:ato_bleed:831708103178321941>\nGain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Lose> <SelfHealthLoss><br2><Gain> <EnergyRecharge>",
                     "energyGiven": 2,
@@ -1030,7 +1030,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Lose 12HP\nSuffer 2<:ato_bleed:831708103178321941>\nGain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Lose> <SelfHealthLoss><br2><Gain> <EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 2,
@@ -1047,7 +1047,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Lose 20HP\nSuffer 5<:ato_bleed:831708103178321941>\nGain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Lose> <SelfHealthLoss><br2><Gain> <EnergyRecharge>",
                     "energyGiven": 2,
@@ -1063,7 +1063,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Lose 10HP\nSuffer 2<:ato_bleed:831708103178321941>\nGain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Lose> <SelfHealthLoss><br2><Gain> <EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 2,
@@ -1230,7 +1230,7 @@
                 "yellow": {
                     "target": "Front Monster",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nDeal 4<:ato_blunt:831707206629064704>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -1245,7 +1245,7 @@
                 "corrupted": {
                     "target": "Front Monster",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nDeal 7<:ato_blunt:831707206629064704>\nApply 2<:ato_crack:831709232339615805>\nYou gain 1<:ato_inspire:1017804069810741259>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -1413,7 +1413,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_bleed:831708103178321941> into<:ato_burn:831708488195506202>\nGain x<:ato_fury:1017804054333771827>\n(X equals your <:ato_bleed:831708103178321941> x0.3)",
                     "rawDescription": "<sy>Transform</sy><br1><sprite=bleed> into  <:ato_burn:831708488195506202><br2><Gain> <Aura_AuraCharges>",
                     "vanish": true,
@@ -1443,7 +1443,7 @@
                 "blue": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_bleed:831708103178321941> into<:ato_burn:831708488195506202>\nGain x<:ato_fury:1017804054333771827>\n(X equals target <:ato_bleed:831708103178321941> x0.5)",
                     "rawDescription": "<sy>Transform</sy><br1><sprite=bleed> into  <:ato_burn:831708488195506202><br2><Gain> <Aura_AuraCharges>",
                     "vanish": true,
@@ -1473,7 +1473,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_bleed:831708103178321941> into<:ato_burn:831708488195506202> x0.5\nGain x<:ato_fury:1017804054333771827>\n(X equals your <:ato_bleed:831708103178321941> x0.5)",
                     "rawDescription": "<sy>Transform</sy><br1><sprite=bleed> into  <:ato_burn:831708488195506202><sy>x 0.5</sy><br2><Gain> <Aura_AuraCharges>",
                     "vanish": true,
@@ -1503,7 +1503,7 @@
                 "corrupted": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_bleed:831708103178321941> into<:ato_burn:831708488195506202> x0.5\nGain x<:ato_fury:1017804054333771827>\n(X equals your <:ato_bleed:831708103178321941>)",
                     "rawDescription": "<sy>Transform</sy><br1><sprite=bleed> into  <:ato_burn:831708488195506202><sy>x 0.5</sy><br2><Gain> <Aura_AuraCharges>",
                     "vanish": true,
@@ -1936,7 +1936,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 2<:ato_card:1017803874498777118> Melee attack from your draw pile and put them into your hand. Discard 1<:ato_card:1017803874498777118> Melee attack",
                     "rawDescription": "<Reveal> <AddCard><Card> <AddCardType> and place them into your hand. <Discard> <DiscardCard> <AddCardType>.",
                     "manipulates": [
@@ -1983,7 +1983,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 2<:ato_card:1017803874498777118> Melee attack from your draw pile and put them into your hand. Discard 1<:ato_card:1017803874498777118> Melee attack",
                     "rawDescription": "<Reveal> <AddCard><Card> <AddCardType> and place them into your hand. <Discard> <DiscardCard> <AddCardType>.",
                     "innate": true,
@@ -2528,7 +2528,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 6<:ato_block:831707452901818368> 1<:ato_reinforce:1017804164107079732>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "auras": [
@@ -2545,7 +2545,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 19<:ato_block:831707452901818368> 2<:ato_reinforce:1017804164107079732>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -3351,7 +3351,7 @@
                 "yellow": {
                     "target": "Front Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 6<:ato_slash:831707157426602034>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -3364,7 +3364,7 @@
                 "corrupted": {
                     "target": "Front Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 12<:ato_slash:831707157426602034>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "vanish": true,
@@ -3831,7 +3831,7 @@
                     "target": "Self",
                     "rarity": "epic",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Gain 3<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>\nRepeat up to 2",
+                    "description": "Gain 3<:ato_sharp:1017804192024383608>\nRepeat up to 2",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges>",
                     "vanish": true,
                     "auras": [
@@ -3849,7 +3849,7 @@
                     "target": "Self",
                     "rarity": "epic",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Gain 3<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>\nRepeat up to 3",
+                    "description": "Gain 3<:ato_sharp:1017804192024383608>\nRepeat up to 3",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges>",
                     "auras": [
                         {
@@ -3866,7 +3866,7 @@
                     "target": "Hero",
                     "rarity": "epic",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Gain 3<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>\nRepeat up to 2",
+                    "description": "Gain 3<:ato_sharp:1017804192024383608>\nRepeat up to 2",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges>",
                     "vanish": true,
                     "auras": [
@@ -3884,7 +3884,7 @@
                     "target": "Hero",
                     "rarity": "epic",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Gain 3<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>\nRepeat up to 4",
+                    "description": "Gain 3<:ato_sharp:1017804192024383608>\nRepeat up to 4",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges>",
                     "vanish": true,
                     "auras": [
@@ -4390,7 +4390,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_slow:831710190662844416>\nGrant 1<:ato_inspire:1017804069810741259> ",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><sy>Dispel</sy>  <HealCurse> ",
                     "dispels": [
@@ -4408,7 +4408,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_slow:831710190662844416><:ato_shackle:1017804176492871715>\nGrant 1<:ato_inspire:1017804069810741259> ",
                     "rawDescription": "",
                     "dispels": [
@@ -4429,7 +4429,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_slow:831710190662844416><:ato_insane:831708800276627516>\nGrant 1<:ato_inspire:1017804069810741259> ",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br2><sy>Dispel</sy>  <HealCurse> ",
                     "dispels": [
@@ -4450,7 +4450,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_slow:831710190662844416><:ato_insane:831708800276627516><:ato_shackle:1017804176492871715>\nGrant 1<:ato_inspire:1017804069810741259> ",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br2><sy>Dispel</sy>  <HealCurse> ",
                     "vanish": true,
@@ -4688,7 +4688,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 5<:ato_block:831707452901818368>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "auras": [
@@ -4714,7 +4714,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 7<:ato_block:831707452901818368>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "auras": [
@@ -4727,7 +4727,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 16<:ato_block:831707452901818368> 1<:ato_reinforce:1017804164107079732>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
@@ -4755,7 +4755,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 2<:ato_sight:831708916340490240> 1<:ato_mark:831709147774320681> 1<:ato_vulnerable:834829138488983563>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges> <Curse3_CurseCharges>",
                     "vanish": true,
@@ -4799,7 +4799,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 2<:ato_sight:831708916340490240> 2<:ato_mark:831709147774320681> 1<:ato_vulnerable:834829138488983563>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges> <Curse3_CurseCharges>",
                     "vanish": true,
@@ -4821,7 +4821,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 3<:ato_sight:831708916340490240> 3<:ato_mark:831709147774320681> 2<:ato_vulnerable:834829138488983563>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges> <Curse3_CurseCharges>",
                     "vanish": true,
@@ -5518,7 +5518,7 @@
                 "blue": {
                     "target": "All Monsters",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 1<:ato_slow:831710190662844416>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "vanish": true,
@@ -5550,7 +5550,7 @@
                 "corrupted": {
                     "target": "All Monsters",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 2<:ato_slow:831710190662844416> 1<:ato_vulnerable:834829138488983563>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges>",
                     "vanish": true,
@@ -6024,7 +6024,7 @@
                 "base": {
                     "target": "Front Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 5<:ato_blunt:831707206629064704>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -6037,7 +6037,7 @@
                 "blue": {
                     "target": "Front Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 7<:ato_blunt:831707206629064704>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -6050,7 +6050,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 5<:ato_blunt:831707206629064704>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -6063,7 +6063,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 12<:ato_blunt:831707206629064704>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "vanish": true,
@@ -6669,7 +6669,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_crack:831709232339615805><:ato_mark:831709147774320681>\nGrant 5<:ato_block:831707452901818368> 2<:ato_reinforce:1017804164107079732>",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br2><sy>Dispel  <HealCurse> <HealCurse2>",
                     "dispels": [
@@ -6694,7 +6694,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_crack:831709232339615805><:ato_mark:831709147774320681>\nGrant 14<:ato_block:831707452901818368> 2<:ato_reinforce:1017804164107079732>",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br2><sy>Dispel  <HealCurse> <HealCurse2>",
                     "vanish": true,
@@ -6752,7 +6752,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> Melee Attack from your discard pile and put it into your hand.",
                     "rawDescription": "<Pick> <AddCard><Card><AddCardType> from your discard and place it on top of your deck with <sy>cost reduced by 1.</sy>",
                     "manipulates": [
@@ -6787,7 +6787,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> Melee Attack from your discard and put it into your hand (cost reduced by 1).",
                     "rawDescription": "<Pick> <AddCard><Card><AddCardType> from your discard and place it into your hand with <sy>cost reduced by 1.</sy>",
                     "vanish": true,
@@ -7288,7 +7288,7 @@
                 "blue": {
                     "target": "Other Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Split your<:ato_block:831707452901818368>",
                     "rawDescription": "<sy>Share </sy> your <:ato_block:831707452901818368>",
                     "purges": [
@@ -7336,7 +7336,7 @@
                 "corrupted": {
                     "target": "All Heroes",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Split your<:ato_block:831707452901818368>",
                     "rawDescription": "<sy>Share </sy> your <:ato_block:831707452901818368>",
                     "vanish": true,
@@ -7372,7 +7372,7 @@
                     "target": "Self",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Gain 2<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Gain 2<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges>",
                     "auras": [
                         {
@@ -7385,7 +7385,7 @@
                     "target": "Self",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Gain 3<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Gain 3<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges>",
                     "auras": [
                         {
@@ -7398,7 +7398,7 @@
                     "target": "Hero",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Grant 2<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Grant 2<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "auras": [
                         {
@@ -7411,7 +7411,7 @@
                     "target": "Hero",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Grant 5<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Grant 5<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
                     "auras": [
@@ -9318,7 +9318,7 @@
                 "base": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply X<:ato_bleed:831708103178321941>\n(X equals your<:ato_bleed:831708103178321941>)\n Dispel your<:ato_bleed:831708103178321941>",
                     "rawDescription": "",
                     "vanish": true,
@@ -9343,7 +9343,7 @@
                 "blue": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply X<:ato_bleed:831708103178321941>\n(X equals your<:ato_bleed:831708103178321941>)\n Dispel your<:ato_bleed:831708103178321941>",
                     "rawDescription": "<Heal> <HealNumber><br1><Lose> <SelfHealthLoss><br1><Suffer> <CurseSelf_CurseCharges>",
                     "dispels": [
@@ -9367,7 +9367,7 @@
                 "yellow": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "You suffer X<:ato_bleed:831708103178321941>\n(X equals target<:ato_bleed:831708103178321941>)\nDispel<:ato_bleed:831708103178321941>",
                     "rawDescription": "",
                     "dispels": [
@@ -9391,7 +9391,7 @@
                 "corrupted": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply X<:ato_bleed:831708103178321941>\n(X equals your<:ato_bleed:831708103178321941>)\n Dispel your<:ato_bleed:831708103178321941>\nSelf heal 8<:ato_heal:831708023822090292>",
                     "rawDescription": "<Heal> <HealNumber><br1><Lose> <SelfHealthLoss><br1><Suffer> <CurseSelf_CurseCharges>",
                     "vanish": true,
@@ -9432,7 +9432,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "auras": [
@@ -9445,7 +9445,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "innate": true,
@@ -9474,7 +9474,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_powerful:1017804148260995102>\nGain 3<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -9859,7 +9859,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 1<:ato_fatigue:1017804029348298882>\nGain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Gain> <EnergyRecharge><br2><Suffer> <CurseSelf_CurseCharges>",
                     "energyGiven": 2,
@@ -9875,7 +9875,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Gain><br2><EnergyRecharge>",
                     "energyGiven": 2,
@@ -9884,7 +9884,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 1<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Gain> <EnergyRecharge><br2><Suffer> <CurseSelf_CurseCharges>",
                     "energyGiven": 1
@@ -9892,7 +9892,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Gain><br2><EnergyRecharge>",
                     "energyGiven": 2,
@@ -10000,7 +10000,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Duplicate 1<:ato_card:1017803874498777118> Melee attack from you hand (cost reduced by 3 until discared)",
                     "rawDescription": "<sy>Copy <AddCard><Card><AddCardType></sy> from your hand and place it into your hand with <sy>cost reduced by 2 this turn</sy>.",
                     "vanish": true,
@@ -10038,7 +10038,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Duplicate 1<:ato_card:1017803874498777118> Melee attack from you hand (cost reduced by 3)",
                     "rawDescription": "<sy>Copy <AddCard><Card><AddCardType></sy> from your hand and place it into your hand with <sy>cost reduced by 1</sy>.",
                     "vanish": true,
@@ -10460,7 +10460,7 @@
                     "target": "All Heroes",
                     "rarity": "epic",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Requires Stanza II+\nGrant 3<:ato_powerful:1017804148260995102> 2<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783> 2<:ato_bless:831707950984593438>",
+                    "description": "Requires Stanza II+\nGrant 3<:ato_powerful:1017804148260995102> 2<:ato_sharp:1017804192024383608> 2<:ato_bless:831707950984593438>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "auras": [
                         {
@@ -10481,7 +10481,7 @@
                     "target": "All Heroes",
                     "rarity": "epic",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Requires Stanza III\nGrant 6<:ato_powerful:1017804148260995102> 4<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783> 4<:ato_bless:831707950984593438>",
+                    "description": "Requires Stanza III\nGrant 6<:ato_powerful:1017804148260995102> 4<:ato_sharp:1017804192024383608> 4<:ato_bless:831707950984593438>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "auras": [
                         {
@@ -10502,7 +10502,7 @@
                     "target": "All Heroes",
                     "rarity": "epic",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Requires Stanza II+\nGrant 4<:ato_powerful:1017804148260995102> 3<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783> 2<:ato_bless:831707950984593438>",
+                    "description": "Requires Stanza II+\nGrant 4<:ato_powerful:1017804148260995102> 3<:ato_sharp:1017804192024383608> 2<:ato_bless:831707950984593438>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "auras": [
                         {
@@ -10523,7 +10523,7 @@
                     "target": "All Heroes",
                     "rarity": "epic",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Requires Stanza II+\nGrant 7<:ato_powerful:1017804148260995102> 4<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783> 4<:ato_bless:831707950984593438>",
+                    "description": "Requires Stanza II+\nGrant 7<:ato_powerful:1017804148260995102> 4<:ato_sharp:1017804192024383608> 4<:ato_bless:831707950984593438>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
                     "auras": [
@@ -10805,7 +10805,7 @@
                     "target": "Monster",
                     "rarity": "mythic",
                     "cost": "6<:ato_energy:1017803954308001902>",
-                    "description": "Deal 13<:ato_piercing:831707237499797534>\nApply 1<:ato_bleed:831708103178321941>\nYou gain 1:ato_shar:\nRepeat 4",
+                    "description": "Deal 13<:ato_piercing:831707237499797534>\nApply 1<:ato_bleed:831708103178321941>\nYou gain 1<:ato_sharp:1017804192024383608>\nRepeat 4",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><gr>Repeat  4</gr>",
                     "damage": [
                         {
@@ -10835,7 +10835,7 @@
                     "target": "Monster",
                     "rarity": "mythic",
                     "cost": "5<:ato_energy:1017803954308001902>",
-                    "description": "Deal 13<:ato_piercing:831707237499797534>\nApply 3<:ato_bleed:831708103178321941>\nYou gain 1<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>\nRepeat 4",
+                    "description": "Deal 13<:ato_piercing:831707237499797534>\nApply 3<:ato_bleed:831708103178321941>\nYou gain 1<:ato_sharp:1017804192024383608>\nRepeat 4",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><gr>Repeat  4</gr>",
                     "vanish": true,
                     "damage": [
@@ -11202,7 +11202,7 @@
                     "target": "Monster",
                     "rarity": "common",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Deal 17<:ato_piercing:831707237499797534>\nDeal X<:ato_fire:831708462093697024>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>x0.5)\nApply 3<:ato_burn:831708488195506202>",
+                    "description": "Deal 17<:ato_piercing:831707237499797534>\nDeal X<:ato_fire:831708462093697024>\n(X equals your <:ato_sharp:1017804192024383608>x0.5)\nApply 3<:ato_burn:831708488195506202>",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
                         {
@@ -11230,7 +11230,7 @@
                     "target": "Monster",
                     "rarity": "uncommon",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Deal 20<:ato_piercing:831707237499797534>\nDeal X<:ato_fire:831708462093697024>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>x0.5)\nApply 4<:ato_burn:831708488195506202>",
+                    "description": "Deal 20<:ato_piercing:831707237499797534>\nDeal X<:ato_fire:831708462093697024>\n(X equals your <:ato_sharp:1017804192024383608>x0.5)\nApply 4<:ato_burn:831708488195506202>",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
                         {
@@ -11258,7 +11258,7 @@
                     "target": "Monster",
                     "rarity": "uncommon",
                     "cost": "4<:ato_energy:1017803954308001902>",
-                    "description": "Deal 27<:ato_piercing:831707237499797534>\nDeal X<:ato_fire:831708462093697024>\nApply X<:ato_burn:831708488195506202>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>x0.5)",
+                    "description": "Deal 27<:ato_piercing:831707237499797534>\nDeal X<:ato_fire:831708462093697024>\nApply X<:ato_burn:831708488195506202>\n(X equals your <:ato_sharp:1017804192024383608>x0.5)",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
                         {
@@ -11286,7 +11286,7 @@
                     "target": "Monster",
                     "rarity": "uncommon",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Deal 28<:ato_piercing:831707237499797534>\nDeal X<:ato_fire:831708462093697024>\nApply X<:ato_burn:831708488195506202>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>x0.5)",
+                    "description": "Deal 28<:ato_piercing:831707237499797534>\nDeal X<:ato_fire:831708462093697024>\nApply X<:ato_burn:831708488195506202>\n(X equals your <:ato_sharp:1017804192024383608>x0.5)",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
                     "damage": [
@@ -11352,7 +11352,7 @@
                 "yellow": {
                     "target": "All Heroes",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 3<:ato_thorns:831709250656927805>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
@@ -11366,7 +11366,7 @@
                 "corrupted": {
                     "target": "All Heroes",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 4<:ato_thorns:831709250656927805>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
@@ -11391,7 +11391,7 @@
                     "target": "Self",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Gain 2<:ato_stealth:831709537592803358> 1<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Gain 2<:ato_stealth:831709537592803358> 1<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Gain> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Draw> <DrawCard>",
                     "vanish": true,
                     "auras": [
@@ -11409,7 +11409,7 @@
                     "target": "Self",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Gain 2<:ato_stealth:831709537592803358> 1<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Gain 2<:ato_stealth:831709537592803358> 1<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Gain> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Draw> <DrawCard>",
                     "innate": true,
                     "auras": [
@@ -11427,7 +11427,7 @@
                     "target": "Self",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Draw 1<:ato_card:1017803874498777118>\nGain 2<:ato_stealth:831709537592803358> 1<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Draw 1<:ato_card:1017803874498777118>\nGain 2<:ato_stealth:831709537592803358> 1<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Gain> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
                     "vanish": true,
@@ -11446,7 +11446,7 @@
                     "target": "Self",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Draw 1<:ato_card:1017803874498777118>\nGain 2<:ato_stealth:831709537592803358> 2<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Draw 1<:ato_card:1017803874498777118>\nGain 2<:ato_stealth:831709537592803358> 2<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Gain> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
                     "innate": true,
@@ -11594,7 +11594,7 @@
                     "target": "Hero",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Grant 2<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Grant 2<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
                     "auras": [
@@ -11607,8 +11607,8 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
-                    "description": "Gain 2<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "cost": "0<:ato_energy:1017803954308001902>",
+                    "description": "Gain 2<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
                     "auras": [
@@ -11622,7 +11622,7 @@
                     "target": "Hero",
                     "rarity": "uncommon",
                     "cost": "1<:ato_energy:1017803954308001902>",
-                    "description": "Grant 2<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Grant 2<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "auras": [
                         {
@@ -11634,8 +11634,8 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
-                    "description": "Grant 4<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "cost": "0<:ato_energy:1017803954308001902>",
+                    "description": "Grant 4<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
                     "auras": [
@@ -11700,7 +11700,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 2<:ato_fast:831709865957130260>\nYou gain 1<:ato_stanza1:831710428156395563>",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><Gain> <AuraSelf3_AuraCharges>",
                     "vanish": true,
@@ -11719,7 +11719,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 3<:ato_fast:831709865957130260> 1<:ato_stanza1:831710428156395563>\nYou gain 1<:ato_stanza2:831710440731574283>",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Gain> <AuraSelf3_AuraCharges>",
                     "vanish": true,
@@ -12009,7 +12009,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGain 4<:ato_block:831707452901818368>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -12023,7 +12023,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGain 6<:ato_block:831707452901818368>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -12037,7 +12037,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 9<:ato_block:831707452901818368> 1<:ato_evasion:1017803990492254248>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -12055,7 +12055,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGain 11<:ato_block:831707452901818368> 1<:ato_evasion:1017803990492254248>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -13039,7 +13039,7 @@
                     "target": "All Monsters",
                     "rarity": "epic",
                     "cost": "4<:ato_energy:1017803954308001902>",
-                    "description": "Deal X<:ato_piercing:831707237499797534> X<:ato_slash:831707157426602034>\nApply x<:ato_poison:1017804131588657243>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>)",
+                    "description": "Deal X<:ato_piercing:831707237499797534> X<:ato_slash:831707157426602034>\nApply x<:ato_poison:1017804131588657243>\n(X equals your <:ato_sharp:1017804192024383608>)",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
                     "damage": [
@@ -13068,7 +13068,7 @@
                     "target": "All Monsters",
                     "rarity": "epic",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Deal X<:ato_piercing:831707237499797534> X<:ato_slash:831707157426602034>\nApply x<:ato_poison:1017804131588657243>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>)",
+                    "description": "Deal X<:ato_piercing:831707237499797534> X<:ato_slash:831707157426602034>\nApply x<:ato_poison:1017804131588657243>\n(X equals your <:ato_sharp:1017804192024383608>)",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
                     "damage": [
@@ -13211,7 +13211,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 7<:ato_block:831707452901818368> 7<:ato_shield:831707596405997578>\nDiscard 1<:ato_card:1017803874498777118>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "auras": [
@@ -13236,7 +13236,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 9<:ato_block:831707452901818368> 9<:ato_shield:831707596405997578>\nDiscard 1<:ato_card:1017803874498777118>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "auras": [
@@ -13261,7 +13261,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 7<:ato_block:831707452901818368> 7<:ato_shield:831707596405997578>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "auras": [
@@ -13278,7 +13278,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 10<:ato_block:831707452901818368> 10<:ato_shield:831707596405997578>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -13327,7 +13327,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 3<:ato_sight:831708916340490240> 2<:ato_vulnerable:834829138488983563> 1<:ato_mark:831709147774320681>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges> <Curse3_CurseCharges>",
                     "curses": [
@@ -13369,7 +13369,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 4<:ato_sight:831708916340490240> 3<:ato_vulnerable:834829138488983563> 3<:ato_mark:831709147774320681>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges> <Curse3_CurseCharges>",
                     "vanish": true,
@@ -13507,7 +13507,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 1<:ato_card:1017803874498777118> Small weapon from your draw pile and put it into your hand (cost reduced by 1 until discared)",
                     "rawDescription": "<Reveal> <AddCard><Card> <AddCardType> and place it into your hand with <sy>cost reduced by 1 this turn</sy>.",
                     "manipulates": [
@@ -13525,7 +13525,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 1<:ato_card:1017803874498777118> Small weapon from your draw pile and put it into your hand (cost reduced by 1)",
                     "rawDescription": "<Reveal> <AddCard><Card> <AddCardType> and place it into your hand with <sy>cost reduced by 1</sy>.",
                     "vanish": true,
@@ -13544,7 +13544,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 2<:ato_card:1017803874498777118> Small weapon from your draw pile and put it into your hand (cost reduced by 1 until discared)",
                     "rawDescription": "<Reveal> <AddCard><Card> <AddCardType> and place them into your hand with <sy>cost reduced by 1 this turn</sy>.",
                     "manipulates": [
@@ -13562,7 +13562,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 2<:ato_card:1017803874498777118> Small weapon from your draw pile and put them into your hand (cost reduced by 2)",
                     "rawDescription": "<Reveal> <AddCard><Card> <AddCardType> and place it into your hand with <sy>cost reduced by 1</sy>.",
                     "vanish": true,
@@ -13706,7 +13706,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 3<:ato_mark:831709147774320681>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "curses": [
@@ -13737,7 +13737,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 5<:ato_mark:831709147774320681> 1<:ato_vulnerable:834829138488983563>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "vanish": true,
@@ -13767,7 +13767,7 @@
                     "target": "Monster",
                     "rarity": "common",
                     "cost": "2<:ato_energy:1017803954308001902>",
-                    "description": "Deal 11<:ato_piercing:831707237499797534>\nDeal X<:ato_cold:831708619330027561>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>x0.5)\nApply 3<:ato_chill:831708639106170931>",
+                    "description": "Deal 11<:ato_piercing:831707237499797534>\nDeal X<:ato_cold:831708619330027561>\n(X equals your <:ato_sharp:1017804192024383608>x0.5)\nApply 3<:ato_chill:831708639106170931>",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
                         {
@@ -13795,7 +13795,7 @@
                     "target": "Monster",
                     "rarity": "common",
                     "cost": "2<:ato_energy:1017803954308001902>",
-                    "description": "Deal 12<:ato_piercing:831707237499797534>\nDeal X<:ato_cold:831708619330027561>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>x0.5)\nApply 4<:ato_chill:831708639106170931>",
+                    "description": "Deal 12<:ato_piercing:831707237499797534>\nDeal X<:ato_cold:831708619330027561>\n(X equals your <:ato_sharp:1017804192024383608>x0.5)\nApply 4<:ato_chill:831708639106170931>",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
                         {
@@ -13823,7 +13823,7 @@
                     "target": "Monster",
                     "rarity": "common",
                     "cost": "3<:ato_energy:1017803954308001902>",
-                    "description": "Deal 20<:ato_piercing:831707237499797534>\nApply X<:ato_cold:831708619330027561>\nApply x<:ato_chill:831708639106170931>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>x0.5)",
+                    "description": "Deal 20<:ato_piercing:831707237499797534>\nApply X<:ato_cold:831708619330027561>\nApply x<:ato_chill:831708639106170931>\n(X equals your <:ato_sharp:1017804192024383608>x0.5)",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
                         {
@@ -13851,7 +13851,7 @@
                     "target": "Monster",
                     "rarity": "common",
                     "cost": "2<:ato_energy:1017803954308001902>",
-                    "description": "Deal 20<:ato_piercing:831707237499797534>\nApply X<:ato_cold:831708619330027561>\nApply x<:ato_chill:831708639106170931>\n(X equals your <:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>x0.5)",
+                    "description": "Deal 20<:ato_piercing:831707237499797534>\nApply X<:ato_cold:831708619330027561>\nApply x<:ato_chill:831708639106170931>\n(X equals your <:ato_sharp:1017804192024383608>x0.5)",
                     "rawDescription": "<Deal> <Damage_DamageType> <Damage2_DamageType2><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
                     "damage": [
@@ -14050,7 +14050,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "mythic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> from your discard pile and pput it into your hand (cost 0 and vanish)",
                     "rawDescription": "<Pick> <AddCard><Card> from your discard and place it into your hand with <sy>cost 0</sy> and <sy>vanish</sy>.",
                     "manipulates": [
@@ -14087,7 +14087,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "mythic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> from your vanish pile and place it into your hand (cost 0 and vanish)",
                     "rawDescription": "<Pick> <AddCard><Card> from your discard and place it into your hand with <sy>cost 0 t)his turn</sy>.",
                     "vanish": true,
@@ -14683,7 +14683,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Requires Stanza I+\nGain 3<:ato_powerful:1017804148260995102> 1<:ato_evasion:1017803990492254248> 2<:ato_regeneration:836680199109476392>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges>",
                     "vanish": true,
@@ -14705,7 +14705,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Requires Stanza I+\nGrant 4<:ato_powerful:1017804148260995102> 2<:ato_evasion:1017803990492254248> 2<:ato_regeneration:836680199109476392>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -15041,7 +15041,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 1<:ato_piercing:831707237499797534>\nApply 2<:ato_poison:1017804131588657243>",
                     "rawDescription": "<Deal> <Damage_DamageType><br1><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -15060,7 +15060,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 2<:ato_piercing:831707237499797534>\nApply 3<:ato_poison:1017804131588657243>",
                     "rawDescription": "<Deal> <Damage_DamageType><br1><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -15079,7 +15079,7 @@
                 "yellow": {
                     "target": "Random Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 3<:ato_piercing:831707237499797534>\nApply 4<:ato_poison:1017804131588657243>",
                     "rawDescription": "<Deal> <Damage_DamageType><br1><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -15098,7 +15098,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 4<:ato_piercing:831707237499797534>\nApply 5<:ato_poison:1017804131588657243>",
                     "rawDescription": "<Deal> <Damage_DamageType><br1><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -15326,7 +15326,7 @@
                 "blue": {
                     "target": "Anyone",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform <:ato_bleed:831708103178321941> into <:ato_poison:1017804131588657243>",
                     "rawDescription": "<sy>Transform</sy><br2><sprite=bleed> into <:ato_poison:1017804131588657243>",
                     "vanish": true,
@@ -15374,7 +15374,7 @@
                 "corrupted": {
                     "target": "Anyone",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform <:ato_bleed:831708103178321941> into <:ato_poison:1017804131588657243>x2",
                     "rawDescription": "<sy>Transform</sy><br2><sprite=bleed> into <:ato_poison:1017804131588657243><sy>x 2</sy>",
                     "vanish": true,
@@ -15715,7 +15715,7 @@
                 "yellow": {
                     "target": "Front Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 6<:ato_piercing:831707237499797534>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -15728,7 +15728,7 @@
                 "corrupted": {
                     "target": "Front Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 12<:ato_piercing:831707237499797534>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "vanish": true,
@@ -15771,7 +15771,7 @@
                     "target": "All Monsters",
                     "rarity": "epic",
                     "cost": "7<:ato_energy:1017803954308001902>",
-                    "description": "Deal 12<:ato_piercing:831707237499797534>\nAply 2<:ato_bleed:831708103178321941>\nYou gain 1<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>\nRepeat 2",
+                    "description": "Deal 12<:ato_piercing:831707237499797534>\nAply 2<:ato_bleed:831708103178321941>\nYou gain 1<:ato_sharp:1017804192024383608>\nRepeat 2",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><gr>Repeat  2</gr>",
                     "damage": [
                         {
@@ -15824,7 +15824,7 @@
                     "target": "All Monsters",
                     "rarity": "epic",
                     "cost": "6<:ato_energy:1017803954308001902>",
-                    "description": "Deal 13<:ato_piercing:831707237499797534>\nApply 2<:ato_bleed:831708103178321941>\nYou gain 1<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>\nRepeat 2",
+                    "description": "Deal 13<:ato_piercing:831707237499797534>\nApply 2<:ato_bleed:831708103178321941>\nYou gain 1<:ato_sharp:1017804192024383608>\nRepeat 2",
                     "rawDescription": "<Deal> <Damage_DamageType><br1><Apply> <Curse_CurseCharges><br2><gr>Repeat  2</gr>",
                     "vanish": true,
                     "damage": [
@@ -16621,7 +16621,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> from your discard pile and place it on top of your deck",
                     "rawDescription": "<Pick> <AddCard><Card> from your discard and place it on top of your deck.",
                     "vanish": true,
@@ -16637,7 +16637,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> from your discard pile and place it on top of your deck",
                     "rawDescription": "",
                     "manipulates": [
@@ -16652,7 +16652,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> from your discard pile and place it into your hand",
                     "rawDescription": "<Pick> <AddCard><Card> from your discard and place it into your hand.",
                     "vanish": true,
@@ -16668,7 +16668,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> from your discard pile and place it into your hand (cost reduced by 1)",
                     "rawDescription": "<Pick> <AddCard><Card> from your discard and place it into your hand.",
                     "vanish": true,
@@ -16712,7 +16712,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 3<:ato_card:1017803874498777118>\nPlace 2<:ato_card:1017803874498777118> from your hand on top of your deck",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br1><Draw> <DrawCard><br1><Place> <DiscardCard> from your hand on top of your deck.",
                     "draws": 3,
@@ -16751,7 +16751,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 3<:ato_card:1017803874498777118>\nGain 1<:ato_energize:831710263631020072>\nPlace 1<:ato_card:1017803874498777118> from your hand on top of your deck",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br1><Draw> <DrawCard><br1><Place> <DiscardCard> from your hand on top of your deck.",
                     "draws": 3,
@@ -16881,7 +16881,7 @@
                     "target": "Monster",
                     "rarity": "rare",
                     "cost": "2<:ato_energy:1017803954308001902>",
-                    "description": "Deal 9<:ato_piercing:831707237499797534>\nGain 4<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Deal 9<:ato_piercing:831707237499797534>\nGain 4<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Gain> <AuraSelf_AuraCharges>",
                     "damage": [
                         {
@@ -16901,7 +16901,7 @@
                     "target": "Monster",
                     "rarity": "rare",
                     "cost": "2<:ato_energy:1017803954308001902>",
-                    "description": "Deal 12<:ato_piercing:831707237499797534>\nGain 4<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Deal 12<:ato_piercing:831707237499797534>\nGain 4<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Gain> <AuraSelf_AuraCharges>",
                     "damage": [
                         {
@@ -16921,7 +16921,7 @@
                     "target": "Monster",
                     "rarity": "rare",
                     "cost": "2<:ato_energy:1017803954308001902>",
-                    "description": "Deal 12<:ato_piercing:831707237499797534>\nGain 6<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Deal 12<:ato_piercing:831707237499797534>\nGain 6<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Gain> <AuraSelf_AuraCharges>",
                     "vanish": true,
                     "damage": [
@@ -16942,7 +16942,7 @@
                     "target": "Monster",
                     "rarity": "rare",
                     "cost": "2<:ato_energy:1017803954308001902>",
-                    "description": "Deal 13<:ato_piercing:831707237499797534>\nGain 7<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "description": "Deal 13<:ato_piercing:831707237499797534>\nGain 7<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Gain> <AuraSelf_AuraCharges>",
                     "vanish": true,
                     "damage": [
@@ -16972,7 +16972,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 3<:ato_piercing:831707237499797534>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -16985,7 +16985,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 3<:ato_piercing:831707237499797534>\nApply 2<:ato_insane:831708800276627516>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -17004,7 +17004,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 3<:ato_piercing:831707237499797534>\nApply 1<:ato_poison:1017804131588657243>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -17023,7 +17023,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 6<:ato_piercing:831707237499797534>\nApply 2<:ato_insane:831708800276627516> 2<:ato_poison:1017804131588657243>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -17175,7 +17175,7 @@
                 "blue": {
                     "target": "Front Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 6<:ato_slash:831707157426602034>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -17207,7 +17207,7 @@
                 "corrupted": {
                     "target": "Front Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 12<:ato_slash:831707157426602034>\nApply 1<:ato_mark:831709147774320681>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -17303,7 +17303,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Requires Stealth\nApply 3<:ato_sight:831708916340490240> 1<:ato_mark:831709147774320681>\nYou gain 1<:ato_stealth:831709537592803358>",
                     "rawDescription": "<Apply> <Curse_CurseCharges> <Curse2_CurseCharges><br2><Gain> <AuraSelf_AuraCharges>",
                     "auras": [
@@ -17327,7 +17327,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Requires Stealth\nApply 4<:ato_sight:831708916340490240> 2<:ato_mark:831709147774320681>\nYou gain 1<:ato_stealth:831709537592803358>",
                     "rawDescription": "<Apply> <Curse_CurseCharges> <Curse2_CurseCharges><br2><Gain> <AuraSelf_AuraCharges>",
                     "innate": true,
@@ -17352,7 +17352,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Requires Stealth\nApply 4<:ato_sight:831708916340490240> 3<:ato_mark:831709147774320681>\nYou gain 2<:ato_stealth:831709537592803358>",
                     "rawDescription": "<Apply> <Curse_CurseCharges> <Curse2_CurseCharges><br2><Gain> <AuraSelf_AuraCharges>",
                     "vanish": true,
@@ -17377,7 +17377,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Requires Stealth\nApply 4<:ato_sight:831708916340490240> 3<:ato_mark:831709147774320681>\nYou gain 3<:ato_stealth:831709537592803358>",
                     "rawDescription": "<Apply> <Curse_CurseCharges> <Curse2_CurseCharges><br2><Gain> <AuraSelf_AuraCharges>",
                     "innate": true,
@@ -17844,7 +17844,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_fast:831709865957130260>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "auras": [
@@ -17857,7 +17857,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_fast:831709865957130260>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "innate": true,
@@ -17871,7 +17871,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_slow:831710190662844416>\nGain 2<:ato_fast:831709865957130260>",
                     "rawDescription": "",
                     "dispels": [
@@ -17889,7 +17889,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nDispel<:ato_slow:831710190662844416>\nGain 2<:ato_fast:831709865957130260>",
                     "rawDescription": "<Gain> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -17984,7 +17984,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 12<:ato_block:831707452901818368> 2<:ato_reinforce:1017804164107079732> 8<:ato_thorns:831709250656927805>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges> <Aura2_AuraCharges> <Aura3_AuraCharges>",
                     "vanish": true,
@@ -18121,8 +18121,8 @@
                 "base": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
-                    "description": "Gain 4<:ato_shadow:8<:ato_sharp:1017804192024383608>31708702981619783>",
+                    "cost": "0<:ato_energy:1017803954308001902>",
+                    "description": "Gain 4<:ato_sharp:1017804192024383608>",
                     "rawDescription": "<Gain><br2><Aura_AuraCharges>",
                     "auras": [
                         {
@@ -18252,7 +18252,7 @@
                 "base": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 1<:ato_poison:1017804131588657243> 1<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges>",
                     "curses": [
@@ -18269,7 +18269,7 @@
                 "blue": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 2<:ato_poison:1017804131588657243> 2<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges>",
                     "curses": [
@@ -18286,7 +18286,7 @@
                 "yellow": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 3<:ato_poison:1017804131588657243>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "curses": [
@@ -18299,7 +18299,7 @@
                 "corrupted": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 5<:ato_poison:1017804131588657243> 3<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges> <Curse2_CurseCharges>",
                     "vanish": true,
@@ -18423,7 +18423,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Look 4<:ato_card:1017803874498777118>\nDiscard any of them.",
                     "rawDescription": "<Look> <LookCards><Card><br1>Discard any of them.",
                     "manipulates": [
@@ -18438,7 +18438,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Look 6<:ato_card:1017803874498777118>\nDiscard any of them.",
                     "rawDescription": "<Look> <LookCards><Card><br1>Discard any of them.",
                     "innate": true,
@@ -18454,7 +18454,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Look 5<:ato_card:1017803874498777118>\nDiscard any of them.",
                     "rawDescription": "<Look> <LookCards><Card><br1>Discard any of them.",
                     "innate": true,
@@ -18470,7 +18470,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Look 8<:ato_card:1017803874498777118>\nDiscard any of them.",
                     "rawDescription": "<Look> <LookCards><Card><br1>Discard any of them.",
                     "innate": true,
@@ -18543,7 +18543,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 1<:ato_stanza1:831710428156395563>\nPlace 1<:ato_card:1017803874498777118> Song spell from your hand on top of your deck",
                     "rawDescription": "",
                     "auras": [
@@ -18702,7 +18702,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_bleed:831708103178321941><:ato_poison:1017804131588657243>\nGain 1<:ato_stealth:831709537592803358> ",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><sy>Dispel  <HealCurse> <HealCurse2></sy>",
                     "vanish": true,
@@ -18724,7 +18724,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_bleed:831708103178321941><:ato_poison:1017804131588657243>\nGain 3<:ato_stealth:831709537592803358>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><sy>Dispel  <HealCurse> <HealCurse2></sy>",
                     "vanish": true,
@@ -18746,7 +18746,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_bleed:831708103178321941><:ato_poison:1017804131588657243>\nGain 2<:ato_stealth:831709537592803358>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><sy>Dispel  <HealCurse> <HealCurse2> <HealCurse3></sy> ",
                     "vanish": true,
@@ -18771,7 +18771,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_bleed:831708103178321941><:ato_poison:1017804131588657243>\nGain 4<:ato_stealth:831709537592803358>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><sy>Dispel  <HealCurse> <HealCurse2> <HealCurse3></sy> ",
                     "vanish": true,
@@ -18959,7 +18959,7 @@
                 "corrupted": {
                     "target": "All Monsters",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nApply 3<:ato_sight:831708916340490240>",
                     "rawDescription": "<Apply> <Curse_CurseCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -19864,7 +19864,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 2<:ato_card:1017803874498777118> Book from your draw pile and put 1 into your hand",
                     "rawDescription": "<Reveal> <AddCard><Card><AddCardType> and place it into your hand with <sy>cost reduced by 1.</sy>",
                     "innate": true,
@@ -19883,7 +19883,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 1<:ato_card:1017803874498777118> Book from your draw pile and put it into your hand (cost reduced by 1)",
                     "rawDescription": "<Reveal> <AddCard><Card><AddCardType> and place it on top of your deck with <sy>cost reduced by 1.</sy>",
                     "vanish": true,
@@ -19902,7 +19902,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 3<:ato_card:1017803874498777118> Book from your draw pile and put 1 into your hand (cost reduced by 1)",
                     "rawDescription": "<Reveal> <AddCard><Card><AddCardType> and place it into your hand with <sy>cost reduced by 1.</sy>",
                     "innate": true,
@@ -19933,7 +19933,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Heal X<:ato_heal:831708023822090292>\n(X equals target<:ato_bleed:831708103178321941>)\nDispel<:ato_bleed:831708103178321941>\nApply 3<:ato_burn:831708488195506202>",
                     "rawDescription": "<Heal> <sy> X </sy> <sprite=heal><br1>(<sy>X</sy> equals your  <sprite=bleed>)<br><gr>Consume</gr> your <sprite=bleed><br><Suffer> <Curse_CurseCharges>",
                     "dispels": [
@@ -19961,7 +19961,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Heal X<:ato_heal:831708023822090292>\n(X equals target<:ato_bleed:831708103178321941>)\nDispel<:ato_bleed:831708103178321941>",
                     "rawDescription": "<Heal> <sy> X </sy> <sprite=heal><br>(<sy>X</sy> equals your  <sprite=bleed>)<br><gr>Consume</gr> your <sprite=bleed><br><sy>Dispel</sy>  <HealCurse2>",
                     "dispels": [
@@ -19983,7 +19983,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Heal X<:ato_heal:831708023822090292>\n(X equals target<:ato_burn:831708488195506202>)\nDispel<:ato_burn:831708488195506202>",
                     "rawDescription": "<Heal> <sy> X </sy> <sprite=heal><br1>(<sy>X</sy> equals target  <sprite=bleed>)<br><gr>Consume</gr> target <sprite=bleed><br><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -20006,7 +20006,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Heal X<:ato_heal:831708023822090292>\n(X equals target<:ato_bleed:831708103178321941>)\nDispel<:ato_bleed:831708103178321941>\nGrant 2:ato_buffer",
                     "rawDescription": "<Heal> <sy> X </sy> <sprite=heal><br>(<sy>X</sy> equals your  <sprite=bleed>)<br><gr>Consume</gr> your <sprite=bleed><br><sy>Dispel</sy>  <HealCurse2>",
                     "vanish": true,
@@ -20379,7 +20379,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> Cold spell from your discard pile and put it into your hand (cost reduced by 3 until discarded)",
                     "rawDescription": "<Pick> <AddCard><Card><AddCardType> from your discard  and place it into your hand with <sy>cost reduced by 3 this turn.</sy>",
                     "vanish": true,
@@ -20417,7 +20417,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 2<:ato_card:1017803874498777118> Cold spell from your discard pile and put it into your hand (cost reduced by 3 until discarded)",
                     "rawDescription": "<Pick> <AddCard><Card><AddCardType> from your discard and place them into your hand with <sy>cost reduced by 2 this turn.</sy>",
                     "vanish": true,
@@ -22632,7 +22632,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> Lightning spell from your discard pile and place it on top of your deck (cost reduced by 1)",
                     "rawDescription": "<Pick> <AddCard><Card><AddCardType> from your discard and place it on top of your deck with <sy>cost reduced by 1.</sy>",
                     "vanish": true,
@@ -22651,7 +22651,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Pick 1<:ato_card:1017803874498777118> Lightning spell from your discard pile and put it into your hand (cost reduced by 1)",
                     "rawDescription": "<Pick> <AddCard><Card><AddCardType> from your discard and place it into your hand with <sy>cost reduced by 1.</sy>",
                     "vanish": true,
@@ -22985,7 +22985,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 7<:ato_shield:831707596405997578> 4<:ato_insulate:1017804082406232115>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -23003,7 +23003,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 8<:ato_shield:831707596405997578> 5<:ato_insulate:1017804082406232115>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -23260,7 +23260,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_energize:831710263631020072>\nRepeat up to 5",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><gr>Repeat up to  5</gr>",
                     "auras": [
@@ -23277,7 +23277,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_energize:831710263631020072>\nRepeat up to 6",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><gr>Repeat up to  7</gr>",
                     "innate": true,
@@ -23445,7 +23445,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 3<:ato_fire:831708462093697024>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -23458,7 +23458,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 3<:ato_fire:831708462093697024>\nApply 1<:ato_burn:831708488195506202>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -23477,7 +23477,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 5<:ato_fire:831708462093697024>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -23490,7 +23490,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 8<:ato_fire:831708462093697024>\nApply 3<:ato_burn:831708488195506202>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -24361,7 +24361,7 @@
                 "base": {
                     "target": "All",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_wet:1017804243526221884>\nApply 1<:ato_burn:831708488195506202>",
                     "rawDescription": "<Apply> <Curse_CurseCharges><br2><sy>Dispel</sy>  <HealCurse> <HealCurse2>",
                     "vanish": true,
@@ -24380,7 +24380,7 @@
                 "blue": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_wet:1017804243526221884>\nApply 1<:ato_burn:831708488195506202>",
                     "rawDescription": "<Apply> <Curse_CurseCharges><br2><sy>Dispel</sy>  <HealCurse> <HealCurse2>",
                     "vanish": true,
@@ -24399,7 +24399,7 @@
                 "yellow": {
                     "target": "All Heroes",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_wet:1017804243526221884><:ato_chill:831708639106170931>",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><sy>Dispel</sy>  <HealCurse> <HealCurse2>",
                     "vanish": true,
@@ -24415,7 +24415,7 @@
                 "corrupted": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_wet:1017804243526221884>\nApply 3<:ato_burn:831708488195506202>",
                     "rawDescription": "<Apply> <Curse_CurseCharges><br2><sy>Dispel</sy>  <HealCurse> <HealCurse2>",
                     "vanish": true,
@@ -24690,7 +24690,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 3<:ato_cold:831708619330027561>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -24703,7 +24703,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 5<:ato_cold:831708619330027561>\nApply 1<:ato_chill:831708639106170931>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -24722,7 +24722,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 5<:ato_cold:831708619330027561>Apply 3<:ato_chill:831708639106170931>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -24742,7 +24742,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 8<:ato_cold:831708619330027561>\nApply 5<:ato_chill:831708639106170931>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -24953,7 +24953,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_bleed:831708103178321941> into <:ato_shield:831707596405997578>\nSuffer 5<:ato_chill:831708639106170931>",
                     "rawDescription": "<sy>Transform</sy><br1><sprite=bleed> into  <:ato_chill:831708639106170931><br2><Gain> <Aura_AuraCharges>",
                     "vanish": true,
@@ -24983,7 +24983,7 @@
                 "blue": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_bleed:831708103178321941> into <:ato_shield:831707596405997578>\nApply 4<:ato_chill:831708639106170931>",
                     "rawDescription": "<sy>Transform</sy><br1><sprite=bleed> into  <:ato_chill:831708639106170931><br2><Gain> <Aura_AuraCharges>",
                     "vanish": true,
@@ -25013,7 +25013,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_bleed:831708103178321941> into <:ato_shield:831707596405997578>\nSuffer 6<:ato_chill:831708639106170931>",
                     "rawDescription": "<sy>Transform</sy><br1><sprite=bleed> into  <:ato_chill:831708639106170931><sy>x 0.5</sy><br2><Gain> <Aura_AuraCharges>",
                     "dispels": [
@@ -25042,7 +25042,7 @@
                 "corrupted": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_bleed:831708103178321941> into <:ato_shield:831707596405997578>\nGrant 2<:ato_powerful:1017804148260995102>\nApply 4<:ato_chill:831708639106170931>",
                     "rawDescription": "<sy>Transform</sy><br1><sprite=bleed> into  <:ato_chill:831708639106170931><sy>x 0.5</sy><br2><Gain> <Aura_AuraCharges>",
                     "vanish": true,
@@ -25556,7 +25556,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Lose 11HP\nGain 1<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Lose> <SelfHealthLoss><br2><Gain> <EnergyRecharge>",
                     "energyGiven": 1,
@@ -25565,7 +25565,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Lose 8HP\nGain 1<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Lose> <SelfHealthLoss><br2><Gain> <EnergyRecharge>",
                     "energyGiven": 1,
@@ -25574,7 +25574,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Lose 18HP\nGain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Lose> <SelfHealthLoss><br2><Gain> <EnergyRecharge>",
                     "energyGiven": 2,
@@ -25583,7 +25583,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Lose 8HP\nGain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Lose> <SelfHealthLoss><br2><Gain> <EnergyRecharge>",
                     "energyGiven": 2,
@@ -25712,7 +25712,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 2<:ato_shadow:831708702981619783>\nApply 2<:ato_sight:831708916340490240>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -25731,7 +25731,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 3<:ato_shadow:831708702981619783>\nApply 2<:ato_sight:831708916340490240> 1<:ato_dark:831708725571616788>\nYou suffer 1<:ato_dark:831708725571616788>",
                     "rawDescription": "<Deal> <Damage_DamageType><br1><Apply> <Curse2_CurseCharges> <Curse3_CurseCharges><br1><Suffer> <CurseSelf_CurseCharges>",
                     "damage": [
@@ -25759,7 +25759,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 2<:ato_shadow:831708702981619783>\nApply 2<:ato_sight:831708916340490240>\nChain 1",
                     "rawDescription": "<Deal> <Damage_DamageType><br1><Apply> <Curse_CurseCharges><br2><gr>Chain  1</gr>",
                     "damage": [
@@ -25783,7 +25783,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 4<:ato_shadow:831708702981619783>\nApply 2<:ato_sight:831708916340490240> 1<:ato_dark:831708725571616788>\nChain 1",
                     "rawDescription": "<Deal> <Damage_DamageType><br1><Apply> <Curse_CurseCharges><br2><gr>Chain  1</gr>",
                     "vanish": true,
@@ -25822,7 +25822,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Gain><br2><EnergyRecharge>",
                     "energyGiven": 2,
@@ -25831,7 +25831,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Gain><br2><EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 2,
@@ -25846,7 +25846,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 1<:ato_energy:1017803954308001902>",
                     "rawDescription": "<Gain><br2><EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 1,
@@ -25855,7 +25855,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Gain 2<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Gain><br2><EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 2,
@@ -27129,7 +27129,7 @@
                 "base": {
                     "target": "All",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 2<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "vanish": true,
@@ -27143,7 +27143,7 @@
                 "blue": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 3<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "vanish": true,
@@ -27157,7 +27157,7 @@
                 "yellow": {
                     "target": "All",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 1<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "curses": [
@@ -27170,7 +27170,7 @@
                 "corrupted": {
                     "target": "All",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 4<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "vanish": true,
@@ -27578,7 +27578,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 6<:ato_block:831707452901818368> 6<:ato_shield:831707596405997578>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -27596,7 +27596,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 8<:ato_block:831707452901818368> 8<:ato_shield:831707596405997578>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -27614,7 +27614,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 7<:ato_block:831707452901818368> 7<:ato_shield:831707596405997578> 1<:ato_fortify:1017804040589017139>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -27636,7 +27636,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 9<:ato_block:831707452901818368> 9<:ato_shield:831707596405997578> 1<:ato_fortify:1017804040589017139>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -27668,7 +27668,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_inspire:1017804069810741259> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -27686,7 +27686,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_inspire:1017804069810741259> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "innate": true,
@@ -27705,7 +27705,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGrant 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -27720,7 +27720,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGrant 1<:ato_inspire:1017804069810741259> 2<:ato_energize:831710263631020072>",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -27749,7 +27749,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 2<:ato_fast:831709865957130260>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "vanish": true,
@@ -27763,7 +27763,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 3<:ato_fast:831709865957130260>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -27777,7 +27777,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 2<:ato_fast:831709865957130260>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "innate": true,
@@ -27792,7 +27792,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 3<:ato_fast:831709865957130260>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "innate": true,
@@ -28335,7 +28335,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 2<:ato_card:1017803874498777118> Spell from your draw pile and put 1 into your hand\nDiscard 1<:ato_card:1017803874498777118> Spell",
                     "rawDescription": "<Reveal> <AddCardChoose><Card><AddCardType> and place <AddCard> into your hand.<br1><Discard> <DiscardCard><AddCardType>.",
                     "vanish": true,
@@ -28360,7 +28360,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 3<:ato_card:1017803874498777118> Spell from your draw pile and put 1 into your hand\nDiscard 1<:ato_card:1017803874498777118> Spell",
                     "rawDescription": "<Reveal> <AddCardChoose><Card><AddCardType> and place <AddCard> into your hand.<br1><Discard> <DiscardCard><AddCardType>.",
                     "vanish": true,
@@ -28385,7 +28385,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 2<:ato_card:1017803874498777118> Spell from your draw pile and put 1 into your hand\nDiscard 1<:ato_card:1017803874498777118> Spell",
                     "rawDescription": "<Reveal> <AddCardChoose><Card><AddCardType> and place <AddCard> into your hand.<br1><Discard> <DiscardCard><AddCardType>.",
                     "innate": true,
@@ -28411,7 +28411,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 3<:ato_card:1017803874498777118> Spell from your draw pile and put 1 into your hand\nDiscard 1<:ato_card:1017803874498777118> Spell",
                     "rawDescription": "<Reveal> <AddCardChoose><Card><AddCardType> and place <AddCard> into your hand.<br1><Discard> <DiscardCard><AddCardType>.",
                     "innate": true,
@@ -29161,7 +29161,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 2<:ato_spark:831708425775480892>\nGain 2<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Suffer> <DamageSelf_DamageType>  <CurseSelf_CurseCharges>",
                     "auras": [
@@ -29181,7 +29181,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 1<:ato_spark:831708425775480892>\nGain 2<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Suffer> <CurseSelf_CurseCharges>",
                     "innate": true,
@@ -29224,7 +29224,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nSuffer 1<:ato_spark:831708425775480892>\nGain 3<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br1><Suffer> <DamageSelf_DamageType>  <CurseSelf_CurseCharges><br1><Draw> <DrawCard>",
                     "draws": 1,
@@ -29781,7 +29781,7 @@
                 "base": {
                     "target": "Random Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 4<:ato_lightning:831708386659139646>\nApply 1<:ato_spark:831708425775480892>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -29800,7 +29800,7 @@
                 "blue": {
                     "target": "Random Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 6<:ato_lightning:831708386659139646>\nApply 1<:ato_spark:831708425775480892>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -29819,7 +29819,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 4<:ato_lightning:831708386659139646>\nApply 1<:ato_spark:831708425775480892>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -29838,7 +29838,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 6<:ato_lightning:831708386659139646>\nApply 3<:ato_spark:831708425775480892>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -29946,7 +29946,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 2<:ato_shadow:831708702981619783>\nApply 2<:ato_sight:831708916340490240>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -29965,7 +29965,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 4<:ato_shadow:831708702981619783>\nApply 2<:ato_sight:831708916340490240>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -29984,7 +29984,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 2<:ato_shadow:831708702981619783>\nApply 4<:ato_sight:831708916340490240>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "damage": [
@@ -30003,7 +30003,7 @@
                 "corrupted": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 6<:ato_shadow:831708702981619783>\nApply 4<:ato_sight:831708916340490240>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -30439,7 +30439,7 @@
                 "yellow": {
                     "target": "Random Monster",
                     "rarity": "mythic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 11<:ato_shadow:831708702981619783>\nApply 2<:ato_dark:831708725571616788>\nRepeat up to 5",
                     "rawDescription": "",
                     "vanish": true,
@@ -30463,7 +30463,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "mythic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 13<:ato_shadow:831708702981619783>\nApply 2<:ato_dark:831708725571616788>\nRepeat up to 6",
                     "rawDescription": "",
                     "vanish": true,
@@ -31033,7 +31033,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Purge<:ato_fury:1017804054333771827>\nDispel<:ato_insane:831708800276627516><:ato_slow:831710190662844416>\nGrant 1<:ato_inspire:1017804069810741259>",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><sy>Dispel</sy>  <HealCurse> <HealCurse2> <HealCurse3>",
                     "vanish": true,
@@ -31060,7 +31060,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Purge<:ato_fury:1017804054333771827>\nDispel<:ato_insane:831708800276627516><:ato_slow:831710190662844416><:ato_sanctify:831707981733298186>\nGrant 1<:ato_inspire:1017804069810741259>",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><sy>Dispel</sy>  <HealCurse> <HealCurse2> <HealCurse3>",
                     "purges": [
@@ -31089,7 +31089,7 @@
                 "yellow": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Purge<:ato_powerful:1017804148260995102><:ato_fury:1017804054333771827><:ato_bless:831707950984593438>\nDispel<:ato_sanctify:831707981733298186>",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><sy>Dispel</sy>  <HealCurse> <HealCurse2> <HealCurse3>",
                     "vanish": true,
@@ -31113,7 +31113,7 @@
                 "corrupted": {
                     "target": "Anyone",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Purge<:ato_fury:1017804054333771827>\nDispel<:ato_insane:831708800276627516><:ato_slow:831710190662844416><:ato_sanctify:831707981733298186>\nGrant 1<:ato_inspire:1017804069810741259>:ato_powerful;",
                     "rawDescription": "<Grant> <Aura_AuraCharges><br2><sy>Dispel</sy>  <HealCurse> <HealCurse2> <HealCurse3>",
                     "vanish": true,
@@ -31620,7 +31620,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal X<:ato_holy:831707893559853076>\n(X equals your hand <:ato_card:1017803874498777118>)",
                     "rawDescription": "",
                     "vanish": true,
@@ -31638,7 +31638,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal X<:ato_holy:831707893559853076>\n(X equals your hand <:ato_card:1017803874498777118>)",
                     "rawDescription": "",
                     "damage": [
@@ -31673,7 +31673,7 @@
                 "corrupted": {
                     "target": "All Monsters",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal X<:ato_holy:831707893559853076>\n(X equals your hand <:ato_card:1017803874498777118>)",
                     "rawDescription": "",
                     "vanish": true,
@@ -31853,7 +31853,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_inspire:1017804069810741259> 1<:ato_energize:831710263631020072>\nApply 3<:ato_slow:831710190662844416>",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br1><Apply> <Curse_CurseCharges> <Curse2_CurseCharges>",
                     "vanish": true,
@@ -31900,7 +31900,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_inspire:1017804069810741259> 1<:ato_energize:831710263631020072>\nApply 2<:ato_slow:831710190662844416>",
                     "rawDescription": "<Grant> <Aura_AuraCharges> <Aura2_AuraCharges><br1><Apply> <Curse_CurseCharges> <Curse2_CurseCharges>",
                     "innate": true,
@@ -32146,7 +32146,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_poison:1017804131588657243>\nGrant 1<:ato_buffer:1017803855058182227>",
                     "rawDescription": "",
                     "vanish": true,
@@ -32165,7 +32165,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_poison:1017804131588657243>\nGrant 1<:ato_buffer:1017803855058182227>",
                     "rawDescription": "",
                     "dispels": [
@@ -32183,7 +32183,7 @@
                 "yellow": {
                     "target": "Anyone",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_poison:1017804131588657243><:ato_bleed:831708103178321941>\nGrant 1<:ato_buffer:1017803855058182227>",
                     "rawDescription": "",
                     "vanish": true,
@@ -32205,7 +32205,7 @@
                 "corrupted": {
                     "target": "Anyone",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nDispel<:ato_poison:1017804131588657243><:ato_bleed:831708103178321941>\nGrant 1<:ato_buffer:1017803855058182227>",
                     "rawDescription": "",
                     "draws": 1,
@@ -32897,7 +32897,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 2<:ato_card:1017803874498777118>\nPlace 2<:ato_card:1017803874498777118> from your hand on top of your deck",
                     "rawDescription": "<Draw> <DrawCard><br2><Place> <DiscardCard> from your hand on top of your deck.",
                     "draws": 2,
@@ -32913,7 +32913,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 4<:ato_card:1017803874498777118>\n Place 1<:ato_card:1017803874498777118> from your hand on top of your deck",
                     "rawDescription": "<Draw> <DrawCard><br2><Place> <DiscardCard> from your hand on top of your deck.",
                     "draws": 4,
@@ -33021,7 +33021,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 14<:ato_shadow:831708702981619783> 4<:ato_vulnerable:834829138488983563> 3<:ato_dark:831708725571616788>\nGain 1<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Suffer> <DamageSelf_DamageType> <CurseSelf_CurseCharges><br2><Gain> <EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 1,
@@ -33054,7 +33054,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 11<:ato_shadow:831708702981619783> 3<:ato_vulnerable:834829138488983563> 1<:ato_dark:831708725571616788>\nGain 1<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Suffer> <DamageSelf_DamageType> <CurseSelf_CurseCharges><br2><Gain> <EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 1,
@@ -33087,7 +33087,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 22<:ato_shadow:831708702981619783> 4<:ato_vulnerable:834829138488983563> 3<:ato_dark:831708725571616788>\nGain 2<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Suffer> <DamageSelf_DamageType> <CurseSelf_CurseCharges><br2><Gain> <EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 2,
@@ -33120,7 +33120,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 10<:ato_shadow:831708702981619783> 3<:ato_vulnerable:834829138488983563> 1<:ato_dark:831708725571616788>\nGain 2<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Suffer> <DamageSelf_DamageType> <CurseSelf_CurseCharges><br2><Gain> <EnergyRecharge> <Aura_AuraCharges>",
                     "energyGiven": 2,
@@ -33192,7 +33192,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 5<:ato_holy:831707893559853076>",
                     "rawDescription": "<Deal><br2><Damage_DamageType>",
                     "damage": [
@@ -33205,7 +33205,7 @@
                 "corrupted": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nDeal 9<:ato_holy:831707893559853076>",
                     "rawDescription": "<Deal> <Damage_DamageType><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -33269,7 +33269,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nHeal 7<:ato_heal:831708023822090292>",
                     "rawDescription": "<Heal> <HealNumber><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -33293,7 +33293,7 @@
                 "base": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 3<:ato_sight:831708916340490240>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "curses": [
@@ -33306,7 +33306,7 @@
                 "blue": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Apply 4<:ato_sight:831708916340490240>",
                     "rawDescription": "<Apply> <Curse_CurseCharges><br2><Draw> <DrawCard>",
                     "innate": true,
@@ -33321,7 +33321,7 @@
                 "yellow": {
                     "target": "Monster",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 2<:ato_mind:831708773490884619>\nApply 3<:ato_sight:831708916340490240>",
                     "rawDescription": "<Apply><br2><Curse_CurseCharges>",
                     "damage": [
@@ -33340,7 +33340,7 @@
                 "corrupted": {
                     "target": "All Monsters",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Deal 5<:ato_mind:831708773490884619>\nApply 4<:ato_sight:831708916340490240>",
                     "rawDescription": "<Apply> <Curse_CurseCharges><br2><Draw> <DrawCard>",
                     "innate": true,
@@ -33875,7 +33875,7 @@
                 "base": {
                     "target": "All",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_regeneration:836680199109476392>\nApply 1<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Heal> <HealNumber><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -33895,7 +33895,7 @@
                 "blue": {
                     "target": "All",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 2<:ato_regeneration:836680199109476392>\nApply 2<:ato_wet:1017804243526221884>",
                     "rawDescription": "<Heal> <HealNumber><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -33915,7 +33915,7 @@
                 "yellow": {
                     "target": "All Heroes",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_burn:831708488195506202>\nGrant 1<:ato_regeneration:836680199109476392>",
                     "rawDescription": "<Heal> <HealNumber><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -33934,7 +33934,7 @@
                 "corrupted": {
                     "target": "All Heroes",
                     "rarity": "uncommon",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Dispel<:ato_burn:831708488195506202>\nGrant 2:ato_regneration:\nHeal 2<:ato_heal:831708023822090292>",
                     "rawDescription": "<Heal> <HealNumber><br2><Apply> <Curse_CurseCharges>",
                     "vanish": true,
@@ -34931,7 +34931,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 7<:ato_shield:831707596405997578> 4<:ato_courage:1017803913040232488>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -34949,7 +34949,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 8<:ato_shield:831707596405997578> 5<:ato_courage:1017803913040232488>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -34977,7 +34977,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 3<:ato_burn:831708488195506202>\nGain 2<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges><br2><Suffer> <CurseSelf_CurseCharges>",
                     "auras": [
@@ -34997,7 +34997,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Suffer 2<:ato_burn:831708488195506202>\nGain 2<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Suffer> <CurseSelf_CurseCharges>",
                     "innate": true,
@@ -35040,7 +35040,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nSuffer 2<:ato_burn:831708488195506202>\nGain 3<:ato_powerful:1017804148260995102>",
                     "rawDescription": "<Gain> <Aura_AuraCharges> <Aura2_AuraCharges><br2><Suffer> <CurseSelf_CurseCharges>",
                     "draws": 1,
@@ -35089,7 +35089,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_energize:831710263631020072> 2<:ato_regeneration:836680199109476392>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges>",
                     "auras": [
@@ -35123,7 +35123,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Grant 1<:ato_energize:831710263631020072> 8<:ato_regeneration:836680199109476392>",
                     "rawDescription": "<Grant><br2><Aura_AuraCharges> <Aura2_AuraCharges>",
                     "vanish": true,
@@ -35224,7 +35224,7 @@
                 "base": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGain 2<:ato_energize:831710263631020072>",
                     "rawDescription": "<Gain> <EnergyRecharge> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -35239,7 +35239,7 @@
                 "blue": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGain 1<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072>",
                     "rawDescription": "<Gain> <EnergyRecharge> <Aura_AuraCharges><br2><Draw> <DrawCard>",
                     "draws": 1,
@@ -35255,7 +35255,7 @@
                 "yellow": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGain 2<:ato_energize:831710263631020072> 1<:ato_inspire:1017804069810741259>",
                     "rawDescription": "<Gain><br1><EnergyRecharge> <Aura_AuraCharges> <Aura2_AuraCharges><br1><Draw> <DrawCard>",
                     "draws": 1,
@@ -35274,7 +35274,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Draw 1<:ato_card:1017803874498777118>\nGain 1<:ato_energy:1017803954308001902> 1<:ato_energize:831710263631020072> 1<:ato_inspire:1017804069810741259>",
                     "rawDescription": "<Gain><br1><EnergyRecharge> <Aura_AuraCharges> <Aura2_AuraCharges><br1><Draw> <DrawCard>",
                     "draws": 1,
@@ -35909,7 +35909,7 @@
                 "corrupted": {
                     "target": "Self",
                     "rarity": "epic",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Reveal 3<:ato_card:1017803874498777118> Healing spell from your draw pile and put 1 into your hand (cost reduced by 2)",
                     "rawDescription": "<Reveal> <AddCardChoose><Card> <AddCardType> and place <AddCard> on top of your deck with <sy>cost reduced by 1.</sy>",
                     "vanish": true,
@@ -37816,7 +37816,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_block:831707452901818368> into <:ato_shield:831707596405997578>",
                     "rawDescription": "<sy>Transform</sy><br2><sprite=block> into <:ato_shield:831707596405997578>",
                     "purges": [
@@ -37839,7 +37839,7 @@
                 "corrupted": {
                     "target": "All Heroes",
                     "rarity": "rare",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Transform<:ato_block:831707452901818368> into <:ato_shield:831707596405997578>",
                     "rawDescription": "<sy>Transform</sy><br2><sprite=block> into <:ato_shield:831707596405997578>",
                     "vanish": true,
@@ -37873,7 +37873,7 @@
                 "base": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Look 5<:ato_card:1017803874498777118>\nDiscard up to 2 of them",
                     "rawDescription": "<Look> <LookCards><Card><br1>Discard up to <LookCardsD> of them.",
                     "manipulates": [
@@ -37889,7 +37889,7 @@
                 "blue": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Look 6<:ato_card:1017803874498777118>\nDiscard up to 3 of them",
                     "rawDescription": "<Look> <LookCards><Card><br1>Discard up to <LookCardsD> of them.",
                     "manipulates": [
@@ -37905,7 +37905,7 @@
                 "yellow": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Look 5<:ato_card:1017803874498777118>\nDiscard any of them",
                     "rawDescription": "<Look> <LookCards><Card><br2>Discard any of them.",
                     "manipulates": [
@@ -37920,7 +37920,7 @@
                 "corrupted": {
                     "target": "Hero",
                     "rarity": "common",
-                    "cost": 0,
+                    "cost": "0<:ato_energy:1017803954308001902>",
                     "description": "Look 8<:ato_card:1017803874498777118>\nDiscard any of them",
                     "rawDescription": "<Look> <LookCards><Card><br2>Discard any of them.",
                     "vanish": true,
