@@ -5,7 +5,7 @@ const { cards } = require('../hero-cards.json');
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('card')
-		.setDescription('Find a card/equipment by name')
+		.setDescription('Find a class card by name')
 		.addStringOption(option =>
 			option.setName('card_name')
 				.setDescription('The card to fetch')
@@ -23,7 +23,12 @@ module.exports = {
 	async execute(interaction) {
 		const exampleEmbed = buildResponse(interaction.options.getString('card_name'), interaction.options.getString('version'));
 
-		await interaction.reply({ embeds: [exampleEmbed] });
+		if (typeof exampleEmbed.data.description !== 'undefined') {
+			await interaction.reply({ embeds: [exampleEmbed], ephemeral: true });
+		}
+		else {
+			await interaction.reply({ embeds: [exampleEmbed] });
+		}
 	},
 };
 
@@ -81,9 +86,9 @@ function capitalizeFirstLetter(string) {
 
 function toTitleCase(str) {
 	return str.replace(
-	  /\w\S*/g,
-	  function(txt) {
-		return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-	  }
+		/\w\S*/g,
+		function(txt) {
+			return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+		},
 	);
   }
