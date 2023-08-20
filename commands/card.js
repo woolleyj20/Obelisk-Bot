@@ -33,7 +33,7 @@ module.exports = {
 };
 
 function buildResponse(name, type) {
-	const card = cards.find(element => element.name == toTitleCase(name));
+	const card = cards.find(element => toTitleCase(element.name) == toTitleCase(name));
 	if (typeof card !== 'undefined') {
 		const cardName = card.name;
 		let vanish = ' ';
